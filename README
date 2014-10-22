@@ -1,0 +1,2 @@
+The database used is in the docs directory. The Postgres database was used and it is recommended to restore the base using the pg_restore command
+
